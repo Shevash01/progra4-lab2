@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.cardB{
+  display: flex;
+  justify-content: space-between;
+}
+
+.fav{
+  color:  #000000;
+  border: 2px solid  #747bff;
+  border-radius: 15px;
+}
